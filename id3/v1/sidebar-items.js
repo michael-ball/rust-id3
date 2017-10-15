@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Tag","A structure containing ID3v1 metadata."]]});
